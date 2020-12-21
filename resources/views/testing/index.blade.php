@@ -11,6 +11,7 @@
         {{$item->us_name}}
         {{$item->email}}
         {{$item->pwd}}
+        halooo
     @endforeach
 </body>
 </html>
